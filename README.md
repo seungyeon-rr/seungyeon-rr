@@ -1,6 +1,6 @@
 ### 🌺 Introduction 🌺 <br />
 안녕하세요! 퍼블리셔로 1차 전직 후 프론트엔드 개발자로 2차 전직에 도전중입니다. :) <br /><br />
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23282A36&title_bg=%23FF6E96&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) <br /><br />
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungyeon-rr&count_bg=%23282A36&title_bg=%23FF6E96&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) <br /><br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyeon-rr&show_icons=true&theme=dracula)
 
 ### 💜 Seungyeon 💜 <br /><br />

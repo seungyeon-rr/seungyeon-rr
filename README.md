@@ -1,9 +1,16 @@
-### 🌺 Introduction 🌺 <br />
-안녕하세요! 퍼블리셔로 1차 전직 후 프론트엔드 개발자로 2차 전직에 도전중입니다. :) <br /><br />
+### Hi there 👋 <br />
+갓생 살고 싶은 프론트엔드 개발자입니다. :) <br /><br />
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungyeon-rr&count_bg=%23282A36&title_bg=%23FF6E96&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) <br /><br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyeon-rr&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeon-rr&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
 
 ### 💜 Seungyeon 💜 <br /><br />
+- 📫 How to reach me: syryu926@gmail.com
+- 😎 My Tech blog: https://syrup-log.tistory.com
+
+<!--
 <a href="https://syrup-log.tistory.com/"><img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://github.com/seungyeon-rr/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://instagram.com/sy.r_up/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -25,7 +32,5 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=Notion&logoColor=white"/>
-
+-->
 <br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeon-rr&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br />

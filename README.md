@@ -6,6 +6,16 @@
 
 <br />
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/seungyeon-rr"
+    width="600"
+    height="120"
+  />
+</a>
+
+<br />
+  
 ### 💜 Seungyeon 💜 <br /><br />
 - 📫 How to reach me: syryu926@gmail.com
 - 😎 My Tech blog: https://syrup-log.tistory.com

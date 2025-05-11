@@ -1,6 +1,5 @@
 ### Hi there 👋 <br />
 갓생 살고 싶은 프론트엔드 개발자입니다. :) <br /><br />
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungyeon-rr&count_bg=%23282A36&title_bg=%23FF6E96&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) <br /><br />
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyeon-rr&show_icons=true&theme=dracula) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeon-rr&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
